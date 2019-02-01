@@ -137,42 +137,28 @@ sprint的最后一步是回顾团队的表现。在这里，我们
 
 ## 社区认领计划
 
-The BitShares Core Team maintain a prioritized 
-[Project Backlog](https://github.com/bitshares/bitshares-core/projects/6:) of ideas, enhancements, 
-bugs and BSIPs which they select from for their development sprint. The community is encouraged to 
-comment on the items to aid in refining requirements and guide prioritization. Effort estimates are 
-first assigned to the highest value backlog items. Unassigned **and estimated** project backlog items
-are available for ad hoc _bounty_ development. Claiming and successfully completing backlog items is 
-a primary consideration for an invitation to join the Core Team on a future sprint.
+BitShares核心团队保持优先排序后的[项目目录](https://github.com/bitshares/bitshares-core/projects/6)，其中包括一些创意的思考，可以做的改进，需要修改的错误代码（Bug）以及从sprint中挑选的BSIPs。我们鼓励社区参与评价每一项来帮助我们更好的修改需求和调整需求的优先级。
 
-The Core Team encourages ad hoc code contributions of estimated project backlog items from any
-community member and will compensate successfully merged code based on estimates approved by Core
-Developers. The Coordinator will facilitate onboarding new community contributors to _claim_ a 
-backlog item and implement a solution that fits within architecture design defined by the Core Team. 
-Care must be taken to ensure effort is not duplicated and can easily be merged within a future 
-sprint. Claimed items that become a dependency of a sprint may be recalled by the Core Team to
-facilitate feature delivery. Compensation for a partially completed increment will be evaluated by 
-the Q/A Lead and Coordinator.
+我们会首先对最具价值的目录项进行工作量评估，没有被分配或估计的项或被派发特定奖金鼓励大家开发。我们将考虑给认领并成果完成某项任务的参与者发出加入核心团队的邀请。
 
-Funding for Community Claims comes from unallocated budget within the _Core Team Effort Budget_ 
-resulting from open Roles on the Core Team as detailed in _Table 1_. 
+核心团队鼓励来自任何社区的成员参与开发任务目录里的任务，并将对其代码被核心团队成员认可并加入到项目中的参与者发出补偿金。协调员将为刚开始上手的社区贡献者提供帮助，协助他们认领项目并开发一个符合核心团队设计的架构的解决方案。 我们需要确保这个过程中不会有重复的工作，并且开发的代码可以在下一个sprint很好的融合。若被认领的项目与当前sprint无关，它也可能在未来被核心团队用于推进之后的项目。只完成部分的解决方案将由Q/A领导和协调员的评估决定其补偿金。该部分认领任务的资金来自核心团队未分配的预算，即表1中详述的核心团队中的开放角色部分。
+
 
 ## BitShares Core 团队框架
 
 负责
-* Maintain timely collaborative communications with each BitShares Core Team Member
-* Maintain effort estimates as development progresses and alert team members of changes promptly
-* Acceptable quality effort is subject to the approval of the Core Team, Escrow Agent and ultimately
-the BTS Token Holders
+* 与每位BitShares核心团队成员保持及时的协作沟通
+* 随着开发的进展保持工作量估算，当变化发生时及时提醒团队成员
+* 工作是否获得认可取决于核心团队，托管代理商以及BTS代币持有人的同意
 
 透明
-* Maintain working increments within Community facing collaboration tools
-* Maintain timely updates of effort estimations within relevant Issues
-* Track quality effort hours within appropriate collaboration tools
+* 在面向社区的协作工具中完成更新工作
+* 及时更新相关项目的工作量估算
+* 在适当的协作工具中跟踪质量工作时间
 
 交付
-* Deliver the highest value work first
-* Favor release schedule over feature completeness (see Development Cycles)
+* 将提供最高价值的工作放在第一位
+* 注重完成计划中的发布，而非完成完整的功能（请参阅开发周期）
 
 ## BitShares Core 团队成员“合同工作”指南
 
