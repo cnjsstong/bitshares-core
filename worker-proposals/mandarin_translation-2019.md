@@ -104,7 +104,7 @@ effort hours estimations are represented in _Table 1_ below.
 
 ## BitShares Core 团队
 
-BitShares核心团队是一个自我组织的敏捷开发团队，专注于定期交付BitShares核心软件的版本发布和Bug修复。实际数量的参与者和职责**可能在每个开发周期（详细描述如下）中变化**，导致每个贡献者周补偿金的变化。核心团队可根据每个开发周期的需求，自行决定分配资源。
+BitShares核心团队是一个自我组织安排的敏捷开发团队，专注于定期交付BitShares核心软件的版本发布和Bug修复。实际数量的参与者和职责**可能在每个开发周期（详细描述如下）中变化**，导致每个贡献者周补偿金的变化。核心团队可根据每个开发周期的需求，自行决定分配资源。
 
 生产可靠和安全的软件需要构思，组织，定义，决定开发优先顺序，开发，测试和文档等步骤。理想的团队组成包括专门完成这些职能的角色，其必须同时能够为其他部分做出贡献。高效的团队的目标是是充分利用每个人的能力，并最大化他们的协作成果。
 
@@ -120,36 +120,20 @@ BitShares核心团队是一个自我组织的敏捷开发团队，专注于定�
 
 _* Core 团队成员达成一致可更改时间_
 
-A typical Feature Release will likely span three weeks from planning thru tested and delivered
-software, called a sprint. Many agile principals will be adopted by the Core Team, but do not
-expect a strict scrum practice. This is a global team, so a formal daily standup is unlikely. One
-should expect asynchronous communication within various collaboration tools keeping the team
-informed of progress, plans and problems. The community are our stakeholders; we look to them for
-ideas, enhancements and identifying bugs, then organize these into a backlog for future
-development. The Coordinator facilitates the prioritization of the backlog items based on feedback
-from the stakeholders and the Core Team. The team will keep the stakeholders informed of
-development progress throughout the sprint.
 
-At the beginning of a sprint cycle the Core Team meets to review the prioritized backlog and
-identify the highest value items that each can contribute to, within the established time block.
-Many features have dependencies and cannot be implemented within a single sprint. Therefore, the
-team will create tasks, a subset of the feature, that can be delivered on time. A task may be
-researching and defining requirements to be implemented later. A task may be writing a test case,
-or perhaps implementing only a subset of a given requirement, or even documenting how existing code
-functions. The team will maintain a sprint backlog comprised of the tasks selected from the project 
-backlog. Completing each of these tasks results in incremental value added to the project. Testing 
-is performed throughout the sprint to ensure functioning code from each increment. 
+典型的功能发布从规划到测试和交付可能需要三周时间，这个周期被称为sprint。核心团队将采用许多敏捷原则，但并不包括严格的Scrum准则。这是一个全球性的团队，所以不太可能每天同时进行总结会议。目前来看可行的方法包括使用各种协作工具进行异步通信，以便让团队了解进度，计划和问题。社区是重要的参与者和利益相关者;我们期待来自社区提出改进的想法并且找出Bug，我们会将这些放入后续开发的任务列表。协调员根据参与者和核心团队的反馈，调整开发任务的优先顺序。该团队将向利益相关者通报整个sprint的开发进度。
 
-As the sprint nears completion, the Core Team will begin release planning. They will select which
-tested increments are ready to be included in a release candidate. This will be deployed to a
-staging network for final validation. A release will be tagged within the bitshares-core GitHub
-repo along with release notes. The team also produce stakeholder documentation detailing resource
-allocations and budget consumption.
+在sprint周期开始时，核心团队开会审核项目（一个开发目标）的优先顺序并找到在既定时间内每个成员能做出最大贡献的项目。许多任务间具有依赖性因此不能在一个sprint里同时完成。
+因此团队将从项目中划分一些可以在当前时间内完成的任务。任务可能是研究和定义以后要实施的需求，也可能是编写测试用例，或者可能只实现给定需求的一部分，甚至可以是记录现有代码的功能。该团队将记录一个sprint目录，其中包含从项目中挑选出来的需要在该阶段实行的任务。完成这些任务中的每一项都会增加项目的完成度。测试在整个sprint中都会执行以确保每次添加的代码能够正确实施。
 
-The final steps of the sprint include a retrospective look at how the team performed. Here we
-reflect on our original estimates, the delivered increments and what contributed to our successes
-and shortcomings. We will use insights gained from the retrospective to improve in the next sprint.
-The following day we immediately begin our next sprint cycle.
+随着sprint接近完成，核心团队将开始计划发布的事宜。他们会从候选版本中选择一个通过测试的整合的版本，并把它部署在网络中用于最终的检查。
+发布的版本将被打上版本编号并和说明一起发布在Bitshare-core Github库中。
+该团队制作详细说明向利益相关方详细解说资源的分配和预算消耗。
+sprint的最后一步是回顾团队的表现。在这里，我们
+将反思原本的计划，新完成的代码以及我们做的好的原因
+和需要改善的不足之处。我们将使用从该过程中获得的经验和教训来改进下一个sprint。
+第二天，我们立刻就会开始新一个sprint周期。
+
 
 ## 社区认领计划
 
