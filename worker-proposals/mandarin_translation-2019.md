@@ -379,12 +379,10 @@ operation [26].
 
 ## 协作工具
 
-The BitShares Core Team use various collaboration tools to organize their work, convey ideas and
-aid development efforts. Transparency of development efforts to the community is a key requirement.
-Tools selected by the team generally provide read/reviewer access for the community to observe
-progress, track our time and provide feedback. Write/contributor access may be limited to a
-specific Core Team role(s). License quantities and types will vary monthly, therefore $3,000 is
-budgeted for tools. A non-exhaustive list is provided in _Table 3_ below. 
+BitShares Core 团队使用多种协作工具来组织工作、传达想法和辅助开发。开发工作对社区透明是一项关键要求。
+团队选择的工具一般都为社区提供了读取/审阅的访问权限，以察看开发进展、追踪时间和提供反馈。写入/贡献者权限
+会被限制在一些特定的 Core 团队角色。授权数量和类型可能每月不同，所以每月预留 $3000 的预算用于工具。
+下面的 _表格 3_ 中列举了可能不完全的部分工具。 
 
 **表格 3. 协作工具（每月）**
 
@@ -401,82 +399,74 @@ budgeted for tools. A non-exhaustive list is provided in _Table 3_ below.
 | 托管与汇款 (BBF)      |       $2,000 |
 | **工具预算总计（每月）** |   **$5,000** |
 
-Select Core Team members will meet prior to each of the scheduled DevCon events for team building, in
-person collaboration and presentation preparation. The Core Team participate in conference sessions 
-toward a better understanding of the BitShares Core functionality. A smaller group of Core Team 
-members will likely attend a yet-to-be-organized Hackathon to lend their support. A not-to-exceed 
-budget for Conference participation is provided in _Table 4_ below.
+部分 Core 团队成员在每次规划的开发者会议活动前会聚会，以进行团队建设、面对面协作或准备演示的内容。Core
+团队参与会议议程的目的是为了更好地理解 BitShares Core 的功能。Core 团队成员中的一小部分可能会参加一场
+尚未确定组织的黑客马拉松，并提供支持。下面的 _表格 4_ 中列出了会议参与预算的上限。
 
-**Table 4. Conference Budget (One-Time)**
+**表格 4. 会议预算 (一次性)**
 
-| Description                            | Accommodations | Amount (USD) |
-|:-------------------------------------- |:-------------- | ------------:|
-| DevCon Spring 2019 - Shanghai, China   |                |              |
-|   Event tickets (up to $500)           | 8 Team Members |       $4,000 |
-|   Travel round trip (up to $2,000)     | 8 Team Members |      $16,000 |
-|   Lodging (up to $180)                 | 5 Nights       |       $7,200 |
-|   Meals (up to $50)                    | 5 Days         |       $2,000 |
-| BitFest Autumn 2019 - TBD, Europe      |                |              |
-|   Event tickets (up to $350)           | 8 Team Members |       $2,800 |
-|   Travel round trip (up to $2,000)     | 8 Team Members |      $16,000 |
-|   Lodging (up to $220)                 | 5 Nights       |       $8,800 |
-|   Meals (up to $80)                    | 5 Days         |       $3,200 |
-| TBD Hackathon 2019 - TBD               |                |              |
-|   Event tickets (up to $500)           | 8 Team Members |       $2,000 |
-|   Travel round trip (up to $2,000)     | 8 Team Members |       $8,000 |
-|   Lodging (up to $200)                 | 5 Nights       |       $3,200 |
-|   Meals (up to $70)                    | 5 Days         |       $1,120 |
-| **TOTAL CONFERENCE BUDGET (ONE-TIME)** |                |  **$74,320** |
+| 描述                               | 包含         | 金额 (USD)   |
+|:---------------------------------- |:------------ | ------------:|
+| 2019 春季开发者大会 - 中国，上海   |              |              |
+|   活动门票 (不超过 $500)           | 8 名团队成员 |       $4,000 |
+|   往返旅行费用 (不超过 $2,000)     | 8 名团队成员 |      $16,000 |
+|   住宿 (不超过 $180)               | 5 晚         |       $7,200 |
+|   餐食 (不超过 $50)                | 5 天         |       $2,000 |
+| 2019 秋季 BitFest - 欧洲，待定     |              |              |
+|   活动门票 (不超过 $350)           | 8 名团队成员 |       $2,800 |
+|   往返旅行费用 (不超过 $2,000)     | 8 名团队成员 |      $16,000 |
+|   住宿 (不超过 $220)               | 5 晚         |       $8,800 |
+|   餐食 (不超过 $80)                | 5 天         |       $3,200 |
+| 2019 黑客马拉松 - 待定             |              |              |
+|   活动门票 (不超过 $500)           | 8 名团队成员 |       $2,000 |
+|   往返旅行费用 (不超过 $2,000)     | 8 名团队成员 |       $8,000 |
+|   住宿 (不超过 $200)               | 5 晚         |       $3,200 |
+|   餐食 (不超过 $70)                | 5 天         |       $1,120 |
+| **会议预算总计 (一次性)**          |              |  **$74,320** |
 
 ## 开发倡议
 
-The Team has identified in _Chart 1_ a set of Initiatives to research, define and develop as part of 
-their 2019 Roadmap. 
+_图表 1_ 中列出了在 2019 年的开发路线图中，团队计划研究、定义和开发的一系列倡议内容。
 
-**Caveat**: The Core Team cannot commit to deliver fully implemented solutions for all identified
-Initiatives. The intent here is to provide guidance at the outset, realizing the Core Team
-continuously evaluates and prioritizes new development tasks ongoing.
+**提示**: Core 团队不能保证完整地交付所有列出的倡议内容。这里列出这些倡议的目的是为了在开始工作时给出一个指导方向，让 Core 团队能持续评估和调度进行中的新的开发任务的优先级。
 
-* Hardware Wallet Integrations
-* Inter-blockchain Communication
-  * Hashed Timelock Contracts (HTLC)
-  * Atomic Cross Chain Swaps (ACCS)
-  * Interledger Protocol (ILP)
+* 硬件钱包集成
+* 跨链通信
+  * 哈希时间锁定合约 (HTLC)
+  * 原子跨链交换 (ACCS)
+  * Interledger 协议 (ILP)
     * Check Sequence Verify (CSV)
     * Check Lock Time Verify (CLTV)
-  * Trustless Gateway
-* Privacy Protections
-  * Confidential Assets / Transactions
+  * 去信任网关
+* 隐私保护
+  * 保密资产/交易
   * Bullet Proofs
-* Market Mechanics
-  * Global Settlement Mechanics
-  * Dynamic Market Fees
-  * P2P Lending
-  * Maker/Taker Model
-* Consensus & witness_node Enhancements
-  * Security and Performance Improvements
-  * Database Storage & Plugins
-  * Vote Decay
-  * Merkle Action Proofs
+* 市场机制
+  * Global Settlement 机制
+  * 动态市场费率
+  * P2P 借贷
+  * Maker/Taker 模型
+* 共识机制 与 witness_node 改进
+  * 安全性与性能提升
+  * 数据库存储与插件
+  * 投票衰减
+  * Merkle 操作证明
   * DPOS + BFT
-* API & cli_wallet Enhancements
-  * Custom Authorities
-  * Recurring Payments
-* Community Engagement
-  * Hackathon
-  * Developer & User Guides
-* Refine/Prioritize Existing BSIPs
+* API 与 cli_wallet 改进
+  * 自定义权限
+  * 定期付款
+* 社区参与
+  * 黑客马拉松
+  * 开发者指南、用户指南
+* 细化并确定现有 BSIP 的优先级
 
-**Chart 1. Initiatives - 2019**
+**图表 1. 开发倡议 - 2019**
 
-![TODO: BitShares Core Initiatives - 2019](https://github.com/ryanRfox/bitshares-core/blob/fox-worker-proposals/worker-proposals/initiatives-2019.png "BitShares Core Initiatives - 2019")
+![BitShares Core 开发倡议 - 2019](https://github.com/ryanRfox/bitshares-core/blob/fox-worker-proposals/worker-proposals/initiatives-2019.png "BitShares Core 开发倡议 - 2019")
 
 ## 开发工作发言人
 
-Collectively the Core Team represent the BitShares Project thru their code and documentation efforts.
-For public speaking engagements and legal representation purposes the Core Team may designate a 
-Member(s) to speak as the authoritative source for BitShares protocol development efforts. 
-Notification will be posted thru the BBF of the current Development Spokeperson(s).
+Core 团队全体通过他们的代码和文档工作来代表 BitShares 项目。为了参与公共演讲或者法律代表的目的，Core 团队可以指定一个或多个团队成员，作为 BitShares 协议开发工作的权威发言人。当前的开发工作发言人信息，将通过 BBF 发出通知。
 
 ## 工作预算
 
