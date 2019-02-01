@@ -18,6 +18,8 @@ within the DAC to deliver greater outreach throughout 2019. The Core Team is res
 to transparently deliver a secure protocol, collaborate on research, prioritize innovative features, 
 and engage our Community and the public toward increased protocol adoption.
 
+本预算提案基于[2018年BitShares核心团队](https://www.bitshares.foundation/workers/2018-03-bitshares-core)所做的工作。目的是为了继续支持核心协议的开发，并且能够帮助去中心化自治社区的发展以期在2019年能够作出更多成就。核心团队有责任为去中心化自治社区透明交付安全的协议，并且在研究上协作，将创新放在第一位并且致力于帮助社区和公众了解和使用协议。
+
 ## 工作
 
 This is a _Budget Worker Proposal_ which funds the following effort areas through calendar year 
