@@ -11,39 +11,31 @@
 
 ## 背景
 
-This budget proposal represents a follow on to the efforts established and executed by the 
-[BitShares Core Team in 2018](https://www.bitshares.foundation/workers/2018-03-bitshares-core). It 
-seeks to continue funding the development efforts related to the core protocol and expand its scope 
-within the DAC to deliver greater outreach throughout 2019. The Core Team is responsible to our DAC 
-to transparently deliver a secure protocol, collaborate on research, prioritize innovative features, 
-and engage our Community and the public toward increased protocol adoption.
 
-本预算提案基于[2018年BitShares核心团队](https://www.bitshares.foundation/workers/2018-03-bitshares-core)所做的工作。目的是为了继续支持核心协议的开发，并且能够帮助去中心化自治社区的发展以期在2019年能够作出更多成就。核心团队有责任为去中心化自治社区透明交付安全的协议，并且在研究上协作，将创新放在第一位并且致力于帮助社区和公众了解和使用协议。
+本预算提案基于[2018年BitShares核心团队](https://www.bitshares.foundation/workers/2018-03-bitshares-core)所做的工作。目的是为了继续支持核心协议的开发，并且能够帮助去中心化自治社区的经营以期在2019年能够作出更多成就。核心团队有责任为去中心化自治社区透明交付安全的协议，并且在研究上协作，将创新放在第一位并且致力于帮助社区和公众了解和使用协议。
 
 ## 工作
 
-This is a _Budget Worker Proposal_ which funds the following effort areas through calendar year 
-2019:
-* BitShares Core Development
-* Collaboration Tools
-* Conference Participation and Community Engagement
+这份预算提案在2019年为以下工作提供资金：
+* BitShares核心开发
+* 协作工具
+* 会议费用与社区经营
 
-This Worker funds a **not to exceed** budget for ideation, collaboration, development and defense of 
-the ideas, engagements and implementations required to advance the BitShares Project. Individuals 
-supported by funds from the budget occupy a defined set of Core Team Roles at specific rate 
-valuations detailed in _Table 2._ below.
 
-BTS are collected into the `"workers.bitshares.foundation"` account which is a multi-sig account
-controlled by `"BitShares Blockchain Foundation"` and owned by `"committee-account"` using the
-Budget Worker Model [1] which provide:
+这些资金只会用于改善BitShares项目所需要的创意，协作，开发等工作以及保护相关创意，参与和实现的工作上。受到该预算资金支持的个人将以表2中工资率实行一系列的特定职能核心团队角色。
 
-* Transparent accounting provided by the BitShares Blockchain Foundation [2]
-* Invoice review, approval and remittance within 5 business days
-* Compensation remitted in a viable SmartCoin (i.e. bitCNY)
-* All accumulated and unallocated BTS returned to the Reserve Pool at the conclusion of the Worker
 
-As the team size scales or BTS token valuations fluctuate, subsequent Worker(s) will be offered to 
-fully fund the Intent. 
+BTS 将会被收集到`"workers.bitshares.foundation"`的多签名账户中，该账户由`"BitShares Blockchain Foundation"`控制，由`"BitShares Blockchain Foundation"`拥有并使用预算工作模型  [1]，该模型拥有以下的特征：
+* 由BitShares区块链基金 [2] 提供透明的会计工作 
+* 五个工作日内完成的单据检查，批准, 汇款
+* 使用一种可靠的智能货币进行赔偿汇款（比如bitCNY）
+* 在工作人员结算后将所有累积未分配的BTS代币归还到储备池
+
+因为团队的规模增大或者BTS代币的价值波动，将会分配更多的工作人员来完成该任务。
+
+
+
+
 
 ## Core 团队工作领域
 
