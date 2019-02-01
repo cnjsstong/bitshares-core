@@ -22,7 +22,7 @@
 * 会议费用与社区经营
 
 
-这些资金只会用于改善BitShares项目所需要的创意，协作，开发等工作以及保护相关创意，参与和实现的工作上。受到该预算资金支持的个人将以表2中工资率实行一系列的特定职能核心团队角色。
+这些资金只会用于改善BitShares项目所需要的构思，协作，开发等工作以及保护相关创意，参与和实现的工作上。受到该预算资金支持的个人将以表2中工资率实行一系列的特定职能核心团队角色。
 
 
 BTS 将会被收集到`"workers.bitshares.foundation"`的多签名账户中，该账户由`"BitShares Blockchain Foundation"`控制，由`"BitShares Blockchain Foundation"`拥有并使用预算工作模型  [1]，该模型拥有以下的特征：
@@ -49,7 +49,7 @@ GitHub库仍然是我们主要的规划，讨论和交付的来源。核心团�
 
 
 
-无论是参加国际会议还是在相关国际会议上发表讲话，或是编程马拉松赛等各种活动仍然是核心团队向外发展社区的重要事项。我们将在国际会议之前进行当面会议，并且全年举行远程规划会议。
+无论是参加国际会议还是在相关国际会议上发表讲话，或是编程马拉松赛等各种活动都仍然是核心团队向外发展社区的重要事项。我们将在国际会议之前进行当面会议，并且全年举行远程规划会议。
 
 扩展后的核心团队2019年的计划将包括：
 * 参加一个额外的国际会议
@@ -69,7 +69,7 @@ efforts may warrant drafting subsequent Proposals to fund growth beyond this bud
 effort hours estimations are represented in _Table 1_ below. 
 
 此Worker提议**每周预算$ 26,750 **用于资助核心团队的开发工作和社区需求。已建立的核心团队将消耗大约21,450美元，
-留下5,300美元用于社区需求或20％核心团队增长预算。工作量证明的结果可能需要起草后续提案才能为超出预算的资金需求提供资金。每周预估的工作时长在_Table 1_中表示。
+留下5,300美元用于社区需求或20％核心团队增长预算。工作量证明的结果可能需要起草后续提案才能为超出预算的需求提供资金。每周预估的工作时长在_Table 1_中表示。
 
 **表格 1. BitShares Core 团队有效工作量预算（每周）**
 
@@ -104,21 +104,12 @@ effort hours estimations are represented in _Table 1_ below.
 
 ## BitShares Core 团队
 
-The BitShares Core Team is a self-organizing agile-principled team focused on delivering regularly
-scheduled releases and ad hoc bug fixes for the BitShares Core software. The actual number of
-contributors and roles **may vary** within each development cycle (described below), leading to
-variations in weekly compensation per contributor. The Core Team has discretion in allocating 
-resources to meet the needs of each development cycle. 
+BitShares核心团队是一个自我组织的敏捷开发团队，专注于定期交付BitShares核心软件的版本发布和Bug修复。实际数量的参与者和职责**可能在每个开发周期（详细描述如下）中变化**，导致每个贡献者周补偿金的变化。核心团队可根据每个开发周期的需求，自行决定分配资源。
 
-Producing reliable and secure software at scale requires ideation, organization, definition,
-prioritization, development, testing and documentation. The ideal team composition includes roles
-specializing in each of these functions and capable of contributing to many. The goal of a highly
-functioning team is to fully utilize each individual's effort and together maximize their
-collective output. 
+生产可靠和安全的软件需要构思，组织，定义，决定开发优先顺序，开发，测试和文档等步骤。理想的团队组成包括专门完成这些职能的角色，其必须同时能够为其他部分做出贡献。高效的团队的目标是是充分利用每个人的能力，并最大化他们的协作成果。
 
-The Core Team records only "quality effort hours" for the role they are tracking time against. 
-Self-reporting is used, tracked within collaboration tools and peer-checked by Team Members to ensure
-the effort matches expected quality for the period. 
+核心团队仅记录他们特定职能角色的“质量工作时间”。我们使用自我报告，协作工具追踪，并由团队成员进行检查以确保团队成员的努力符合预期。
+
 
 ## 开发周期*
 
