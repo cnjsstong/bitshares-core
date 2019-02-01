@@ -39,30 +39,23 @@ BTS 将会被收集到`"workers.bitshares.foundation"`的多签名账户中，�
 
 ## Core 团队工作领域
 
-The primary focus of the Core Team remains maintenance and development of the 
-[core protocol](https://github.com/bitshares.com/bitshares-core) and oversight of the 
-[BitShares Improvement Proposals](https://github.com/bitshares.com/bsips) (BSIP) process. The 
-Core Team will continue to liaise with the 
-[BitShares UI Team](https://github.com/bitshares.com/bitshares-ui), and other community lead efforts 
-maintained within the [BitShares Organization](https://github.com/bitshares) on GitHub. The Core Team
-continues to guide Community Contributors toward promotion into open Core Team Roles through the 
-Community Claims program detailed below. 
 
-Collaboration tools will continue to include software tools and server infrastructure to support 
-development and testing efforts. The [bitshares-core](https://github.com/bitshares/bitshares-core) 
-GitHub repository remains the primary source for our planning, discussion and deliveries. The Core
-Team participates with the UI Team and BitShares Committee to manage access within the 
-[BitShares Organization on GitHub](https://github.com/bitshares).
+核心团队仍然专注于[核心协议](https://github.com/bitshares.com/bitshares-core)的维护和开发以及对[BitShares改进提案（BSIP)](https://github.com/bitshares.com/bsips)流程的监督。核心团队将继续与[BitShares UI团队](https://github.com/bitshares.com/bitshares-ui)保持联系，并在GitHub上的[BitShares组织](https://github.com/bitshares)内维护其他社区领导工作。核心团队继续通过下面详述的社区声明计划指导社区贡献者晋升为开放核心团队角色。
 
-Attendance and speaking engagements at relevant international conferences, hackathons and events
-remain an important component of the Core Team's dedication to community outreach. We gather for 
-in-person meetings prior to each conference and hold remote planning meetings throughout the year.
 
-Expanded Core Team scope for 2019 will include:
-* Participation in one (1) additional international conference
-* Multilingual information gathering and dissemination (English and Mandarin)
-* Designate the Development Spokesperson(s) for public engagements
+协作工具包括软件工具和支持开发和测试的服务器基础架构
+[bitshares-core](https://github.com/bitshares/bitshares-core)
+GitHub库仍然是我们主要的规划，讨论和交付的来源。核心
+团队与UI团队和BitShares委员会协作管理[GitHub上的BitShares组织](https://github.com/bitshares)的访问权限。
 
+
+
+无论是参加国际会议还是在相关国际会议上发表讲话，或是编程马拉松赛等各种活动仍然是核心团队向外发展社区的重要事项。我们将在国际会议之前进行当面会议，并且全年举行远程规划会议。
+
+扩展后的核心团队2019年的计划将包括：
+* 参加一个额外的国际会议
+* 以多种语言的形式收集和传播信息（英语和普通话）
+* 任命面向公众参与的发言人
 ## BitShares Core 团队成员、角色和预算
 
 The Core Team is comprised of an established group of community members who have demonstrated 
