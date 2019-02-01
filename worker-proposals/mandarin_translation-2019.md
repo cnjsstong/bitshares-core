@@ -538,33 +538,34 @@ Pool [5-6].
 
 ## 期限与支付方式
 
-**Duration:**
-This proposal will last for 47 weeks, starting from 4th February 2019, ending on 29th December 2019.
+### 期限
 
-**Transparent Accounting:**
-* Invoices from Core Team Members will be submitted to the Coordinator by Monday 12:00 UTC for work
-performed thru Sunday 23:59 UTC of the previous period
-* Coordinator will review and approve submitted time sheets, then forward invoices to BitShares
-Blockchain Foundation for release of funds from escrow to contributor's account
-* Coordinator will review and approve vendor invoices, then forward to BitShares Blockchain
-Foundation for direct payment to vendor
+本提案持续 47 周，从 2019 年 2 月 4 日起， 至 2019 年 12 月 29 日止。
 
-**Devaluation Multiplier:**
-This Worker introduces a _devaluation multiplier_ to mitigate the impacts of a depreciating BTS token 
-during the active period. We propose to protect against prolonged BTS devaluation of approximately 
-one-third (-33%) by using a 1.50 _devaluation multiplier_. Initially, BTS will be accumulated at rate
-150% of the required daily budget. The BBF will use the accumulated BTS to purchase bitCNY from the 
-market, up to the _Core Team Budget_ detailed above in _Table 8_. 
+### 账目透明
 
-**Calculations (as of 27 JAN 2019):**
-* 6.75 = USD/CNY foreign exchange rate
-* 3.93824 = bitCNY/BTS price feed 
-* 1.50 = Devaluation multiplier to mitigate market fluctuations
-* **168,032 BTS/day** ≈ $4,214 USD/day * 6.75 USD/CNY * 3.93824 bitCNY/BTS * 1.50 devaluation multiplier 
+* 前一周的周日 23:59 UTC 之前开展的工作相应的费用清单，Core 团队成员将在周一 12:00 UTC 之前提交给协调员。
+* 协调员将审阅并批准团队成员提交的工时表，然后将费用清单转交给 BitShares Blockchain Foundation，由 BBF
+将资金从托管账户释放给贡献者的账户。
+* 协调员将审阅并批准购买第三方服务的账单，然后将账单转交给 BitShares Blockchain Foundation，由 BBF
+直接付款给第三方。
 
-**Payments:**
-All payments are converted from USD and remitted in bitCNY with method developed by the BitShares 
-Blockchain Foundation [1].
+### 贬值乘数
+
+本工作提案引入 _贬值乘数_ 以预防有效期内 BTS 代币贬值带来的影响。我们希望使用 1.50 的 _贬值乘数_
+来防范大约三分之一的 BTS 长期贬值风险。初始，每天 BTS 将按照所需预算的 150% 累积。BBF 将使用累积的 BTS
+从市场中购买不超过 _表格 8_ 中所述的 _核心团队预算_ 的 bitCNY。
+
+### 计算（按照 2019 年 1 月 27 日数据）
+
+* 6.75 = USD/CNY 美元兑人民币汇率
+* 3.93824 = bitCNY/BTS 喂价 
+* 1.50 = 预防市价波动的贬值乘数
+* **168,032 BTS/天** ≈ $4,214 USD/天 * 6.75 USD/CNY 汇率 * 3.93824 bitCNY/BTS 喂价 * 1.50 贬值乘数 
+
+### 支付方式
+
+所有支付金额，将从 USD 换算成 bitCNY，并用 BitShare Blockchain Foundation 开发的方式汇款。[1]
 
 ## 参考文献
 
