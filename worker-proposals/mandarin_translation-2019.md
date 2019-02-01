@@ -45,8 +45,7 @@ BTS 将会被收集到`"workers.bitshares.foundation"`的多签名账户中，�
 
 协作工具包括软件工具和支持开发和测试的服务器基础架构
 [bitshares-core](https://github.com/bitshares/bitshares-core)
-GitHub库仍然是我们主要的规划，讨论和交付的来源。核心
-团队与UI团队和BitShares委员会协作管理[GitHub上的BitShares组织](https://github.com/bitshares)的访问权限。
+GitHub库仍然是我们主要的规划，讨论和交付的来源。核心团队与UI团队和BitShares委员会协作管理[GitHub上的BitShares组织](https://github.com/bitshares)的访问权限。
 
 
 
@@ -58,17 +57,19 @@ GitHub库仍然是我们主要的规划，讨论和交付的来源。核心
 * 任命面向公众参与的发言人
 ## BitShares Core 团队成员、角色和预算
 
-The Core Team is comprised of an established group of community members who have demonstrated 
-their ability to collaborate as a decentralized team, recruit contributions from community members 
-and business teams building on the protocol, and advance the pace of innovation throughout 2018. Each
-team member is focused on returning more value to the BitShares DAC than is drawn from the reserve 
-pool.
+
+核心团队由一群社区成员组成，这些成员在2018年已经证明了他们能够很好的以去中心化的组织形式进行协作，从社区成员中招募高贡献人群，并且加速项目创新的步伐。每一个组织成员都致力于回报BitShares去中心化自治社区，而不是想要从储备池中获利。
+
+
 
 This Worker proposes to **budget $26,750 weekly** for funding development efforts of the Core Team 
 and Community Claims. Approximately $21,450 are consumed by the established Core Team members, 
 leaving $5,300 available for Community Claims or 20% Core Team growth. Demonstrated results of these 
 efforts may warrant drafting subsequent Proposals to fund growth beyond this budget. Weekly quality 
 effort hours estimations are represented in _Table 1_ below. 
+
+此Worker提议**每周预算$ 26,750 **用于资助核心团队的开发工作和社区需求。已建立的核心团队将消耗大约21,450美元，
+留下5,300美元用于社区需求或20％核心团队增长预算。工作量证明的结果可能需要起草后续提案才能为超出预算的资金需求提供资金。每周预估的工作时长在_Table 1_中表示。
 
 **表格 1. BitShares Core 团队有效工作量预算（每周）**
 
@@ -98,8 +99,8 @@ effort hours estimations are represented in _Table 1_ below.
 | **为增长预留的预算**          |           |                         | 至少 50 小时  |
 | **每周 $5,300**               |           |                         |               |
 
-*Additional hours for these roles remain available at this time. Please contact
-[fox@bitshares.org](mailto:fox@bitshares.org) for additional information.
+
+*当前这些职位仍有空缺。请联系[fox@bitshares.org](mailto:fox@bitshares.org)获取更多信息。
 
 ## BitShares Core 团队
 
