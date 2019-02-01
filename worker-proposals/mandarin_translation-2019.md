@@ -502,10 +502,7 @@ continuously evaluates and prioritizes new development tasks ongoing.
 
 ## 开发工作发言人
 
-Collectively the Core Team represent the BitShares Project thru their code and documentation efforts.
-For public speaking engagements and legal representation purposes the Core Team may designate a 
-Member(s) to speak as the authoritative source for BitShares protocol development efforts. 
-Notification will be posted thru the BBF of the current Development Spokeperson(s).
+Core 团队全体通过他们的代码和文档工作来代表 BitShares 项目。为了参与公共演讲或者法律代表的目的，Core 团队可以指定一个或多个团队成员，作为 BitShares 协议开发工作的权威发言人。当前的开发工作发言人信息，将通过 BBF 发出通知。
 
 ## 工作预算
 
