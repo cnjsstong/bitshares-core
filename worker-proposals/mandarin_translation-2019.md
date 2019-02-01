@@ -83,33 +83,33 @@ leaving $5,300 available for Community Claims or 20% Core Team growth. Demonstra
 efforts may warrant drafting subsequent Proposals to fund growth beyond this budget. Weekly quality 
 effort hours estimations are represented in _Table 1_ below. 
 
-**Table 1. BitShares Core Team Quality Effort Budget (Weekly)**
+**表格 1. BitShares Core 团队有效工作量预算（每周）**
 
-| Roles (described below)           | Rate (USD)| Team Member             | Estimated Hours   |
-|:--------------------------------- | ---------:|:----------------------- |:----------------- |
-| **BUDGET FOR CORE TEAM EFFORT**   |           |                         |                   |
-| **$26,750 WEEKLY**                |           |                         |                   |
-| -                                 |           |                         |                   |
-| Core Developer                    | $150/hour | Abit More               | 10 hours weekly   |
-| Core Developer                    | $150/hour | Alfredo Garcia          | 20 hours weekly   |
-| Core Developer                    | $150/hour | John Jones              | 30 hours weekly   |
-| Core Developer, QA Lead           | $150/hour | Peter Conrad            | 10 hours weekly   |
-| Junior Developer                  | $125/hour | Dr. Christopher Sanborn | 10 hours weekly   |
-| Lead Business Analyst             | $125/hour | Michel Santos           | 20 hours weekly   |
-| Lead Documentation Specialist     | $100/hour | T. Sugimoto             | 15 hours weekly   |
-| Coordinator                       | $150/hour | Ryan R. Fox             | 30 hours weekly   |
-| Coordinator Assistant (China)     | $100/hour | 田蒙蒙 Linda Tian       | 4 hours weekly    |
-| Coordinator Assistant (US)        | $100/hour | 沈瞳 Tong Shen          | 8 hours weekly    |
-| **ONGOING CORE TEAM EFFORT**      |           |                         | 157 hours weekly  |
-| **$21,450 WEEKLY**                |           |                         |                   |
-| -                                 |           |                         |                   |
-| Community Claims*:                |           |                         |                   |
-| -- Community Developers           | $100/hour | -open-                  | -                 |
-| -- Business Analysts              |  $75/hour | -open-                  | -                 |
-| -- QA/Testers                     |  $70/hour | -open-                  | -                 |
-| -- Documentation Specialists      |  $60/hour | -open-                  | -                 |
-| **BUDGET AVAILALBE FOR GROWTH**   |           |                         | at least 50 hours |
-| **$5,300 WEEKLY**                 |           |                         |                   |
+| 角色 (描述如下)               | 工资 (USD)| 团队成员                | 预计工作时间   |
+|:----------------------------- | ---------:|:----------------------- |:-------------- |
+| **Core 团队工作量预算**       |           |                         |                |
+| **每周 $26,750**              |           |                         |                |
+| -                             |           |                         |                |
+| 核心开发者                    | $150/小时 | Abit More               | 每周 10 小时  |
+| 核心开发者                    | $150/小时 | Alfredo Garcia          | 每周 20 小时   |
+| 核心开发者                    | $150/小时 | John Jones              | 每周 30 小时   |
+| 核心开发者, 首席质量保证（QA）| $150/小时 | Peter Conrad            | 每周 10 小时   |
+| 初级开发者                    | $125/小时 | Dr. Christopher Sanborn | 每周 10 小时   |
+| 首席业务分析师                | $125/小时 | Michel Santos           | 每周 20 小时   |
+| 首席文档专员                  | $100/小时 | T. Sugimoto             | 每周 15 小时   |
+| 协调员                       | $150/小时 | Ryan R. Fox              | 每周 30 小时   |
+| 协调员助理（中国）            | $100/小时 | 田蒙蒙 Linda Tian       | 每周 4 小时    |
+| 协调员助理（美国）            | $100/小时 | 沈瞳 Tong Shen          | 每周 8 小时    |
+| **当前 Core 团队工作量**     |           |                         | 每周 157 小时  |
+| **每周 $21,450**              |           |                         |                |
+| -                             |           |                         |                |
+| 社区认领计划*:                |           |                         |                |
+| -- 社区开发者                 | $100/小时 | -开放-                  | -              |
+| -- 业务分析师                 |  $75/小时 | -开放-                  | -              |
+| -- 质量保证/测试人员          |  $70/小时 | -开放-                  | -              |
+| -- 文档专员                   |  $60/小时 | -开放-                  | -              |
+| **为增长预留的预算**          |           |                         | 至少 50 小时  |
+| **每周 $5,300**               |           |                         |               |
 
 *Additional hours for these roles remain available at this time. Please contact
 [fox@bitshares.org](mailto:fox@bitshares.org) for additional information.
@@ -134,12 +134,12 @@ the effort matches expected quality for the period.
 
 ## 开发周期*
 
-  * Feature Release (non-consensus impacting):
-    * Five-week sprints
-  * Protocol Upgrade (consensus impacting):
-    * Twice annually, with at least 6 months of protocol stability
+  * 功能发布 (不影响共识机制):
+    * 5 周冲刺周期
+  * 协议升级 (影响共识机制):
+    * 每年 2 次，至少 6 个月协议稳定期
 
-_*Subject to change upon consensus of Core Team Members_
+_* Core 团队成员达成一致可更改时间_
 
 A typical Feature Release will likely span three weeks from planning thru tested and delivered
 software, called a sprint. Many agile principals will be adopted by the Core Team, but do not
@@ -196,18 +196,18 @@ resulting from open Roles on the Core Team as detailed in _Table 1_.
 
 ## BitShares Core 团队框架
 
-Accountability
+负责
 * Maintain timely collaborative communications with each BitShares Core Team Member
 * Maintain effort estimates as development progresses and alert team members of changes promptly
 * Acceptable quality effort is subject to the approval of the Core Team, Escrow Agent and ultimately
 the BTS Token Holders
 
-Transparency
+透明
 * Maintain working increments within Community facing collaboration tools
 * Maintain timely updates of effort estimations within relevant Issues
 * Track quality effort hours within appropriate collaboration tools
 
-Delivery
+交付
 * Deliver the highest value work first
 * Favor release schedule over feature completeness (see Development Cycles)
 
@@ -231,25 +231,25 @@ BitShares DAC adhering to its MIT license.
 Each Core Team Member is encouraged to contribute in a responsible way with respect to a work/life 
 balance and legal employee engagements he or she might have entered into, or enter, with an employer. 
 
-**Table 2. Core Team Roles and Rates**
+**表格 2. Core 团队角色和工资**
 
-| Roles (described below)         | Rate (USD) |
-|:------------------------------- | ----------:|
-| Core Developer                  |  $150/hour |
-| Junior Core Developer           |  $125/hour |
-| Community Developer             |  $100/hour |
-| Lead Business Analyst           |  $125/hour |
-| Senior Business Analyst         |  $100/hour |
-| Junior Business Analyst         |   $75/hour |
-| Lead QA/Tester                  |  $125/hour |
-| Senior QA/Tester                |  $100/hour |
-| Junior QA/Tester                |   $75/hour |
-| Lead Documentation Specialist   |  $100/hour |
-| Senior Documentation Specialist |   $80/hour |
-| Junior Documentation Specialist |   $60/hour |
-| UI/UX Liaison                   |  $125/hour |
-| Coordinator                     |  $150/hour |
-| Coordinator Assistant           |  $100/hour |
+| 角色（描述如下）      | 工资 (USD) |
+|:--------------------- | ----------:|
+| 核心开发者            |  $150/hour |
+| 初级核心开发者        |  $125/hour |
+| 社区开发者            |  $100/hour |
+| 首席业务分析师        |  $125/hour |
+| 资深业务分析师        |  $100/hour |
+| 初级业务分析师        |   $75/hour |
+| 首席质量保证/测试人员 |  $125/hour |
+| 资深质量保证/测试人员 |  $100/hour |
+| 初级质量保证/测试人员 |   $75/hour |
+| 首席文档专员          |  $100/hour |
+| 资深文档专员          |   $80/hour |
+| 初级文档专员          |   $60/hour |
+| UI/UX 联络员          |  $125/hour |
+| 协调员                |  $150/hour |
+| 协调员助理            |  $100/hour |
 
 ## Core 团队成员角色描述
 
@@ -436,20 +436,20 @@ progress, track our time and provide feedback. Write/contributor access may be l
 specific Core Team role(s). License quantities and types will vary monthly, therefore $3,000 is
 budgeted for tools. A non-exhaustive list is provided in _Table 3_ below. 
 
-**Table 3. Collaboration Tools (Monthly)**
+**表格 3. 协作工具（每月）**
 
-| Description                      | Amount (USD) |
+| 描述                      | 金额 (USD) |
 |:---------------------------------| ------------:|
-| Software Tools                   |       $3,000 |
-| --Code Repository                |           -- |
-| --Continuous Integration         |           -- |
-| --Continuous Code Quality        |           -- |
-| --Product Roadmap                |           -- |
-| --Process Models                 |           -- |
-| --Time Tracking/Auditing         |           -- |
-| --Infrastructure Environment     |           -- |
-| Escrow and Remittance (BBF)      |       $2,000 |
-| **TOTAL TOOLS BUDGET (MONTHLY)** |   **$5,000** |
+| 软件工具                   |       $3,000 |
+| --代码仓库                |           -- |
+| --持续集成         |           -- |
+| --持续代码质量        |           -- |
+| --产品路线图                |           -- |
+| --过程建模                 |           -- |
+| --时间追踪/审计         |           -- |
+| --基础设施环境     |           -- |
+| 托管与汇款 (BBF)      |       $2,000 |
+| **工具预算总计（每月）** |   **$5,000** |
 
 Select Core Team members will meet prior to each of the scheduled DevCon events for team building, in
 person collaboration and presentation preparation. The Core Team participate in conference sessions 
