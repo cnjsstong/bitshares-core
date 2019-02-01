@@ -459,46 +459,43 @@ budget for Conference participation is provided in _Table 4_ below.
 
 ## 开发倡议
 
-The Team has identified in _Chart 1_ a set of Initiatives to research, define and develop as part of 
-their 2019 Roadmap. 
+_图表 1_ 中列出了在 2019 年的开发路线图中，团队计划研究、定义和开发的一系列倡议内容。
 
-**Caveat**: The Core Team cannot commit to deliver fully implemented solutions for all identified
-Initiatives. The intent here is to provide guidance at the outset, realizing the Core Team
-continuously evaluates and prioritizes new development tasks ongoing.
+**提示**: Core 团队不能保证完整地交付所有列出的倡议内容。这里列出这些倡议的目的是为了在开始工作时给出一个指导方向，让 Core 团队能持续评估和调度进行中的新的开发任务的优先级。
 
-* Hardware Wallet Integrations
-* Inter-blockchain Communication
-  * Hashed Timelock Contracts (HTLC)
-  * Atomic Cross Chain Swaps (ACCS)
-  * Interledger Protocol (ILP)
+* 硬件钱包集成
+* 跨链通信
+  * 哈希时间锁定合约 (HTLC)
+  * 原子跨链交换 (ACCS)
+  * Interledger 协议 (ILP)
     * Check Sequence Verify (CSV)
     * Check Lock Time Verify (CLTV)
-  * Trustless Gateway
-* Privacy Protections
-  * Confidential Assets / Transactions
+  * 去信任网关
+* 隐私保护
+  * 保密资产/交易
   * Bullet Proofs
-* Market Mechanics
-  * Global Settlement Mechanics
-  * Dynamic Market Fees
-  * P2P Lending
-  * Maker/Taker Model
-* Consensus & witness_node Enhancements
-  * Security and Performance Improvements
-  * Database Storage & Plugins
-  * Vote Decay
-  * Merkle Action Proofs
+* 市场机制
+  * Global Settlement 机制
+  * 动态市场费率
+  * P2P 借贷
+  * Maker/Taker 模型
+* 共识机制 与 witness_node 改进
+  * 安全性与性能提升
+  * 数据库存储与插件
+  * 投票衰减
+  * Merkle 操作证明
   * DPOS + BFT
-* API & cli_wallet Enhancements
-  * Custom Authorities
-  * Recurring Payments
-* Community Engagement
-  * Hackathon
-  * Developer & User Guides
-* Refine/Prioritize Existing BSIPs
+* API 与 cli_wallet 改进
+  * 自定义权限
+  * 定期付款
+* 社区参与
+  * 黑客马拉松
+  * 开发者指南、用户指南
+* 细化并确定现有 BSIP 的优先级
 
-**Chart 1. Initiatives - 2019**
+**图表 1. 开发倡议 - 2019**
 
-![TODO: BitShares Core Initiatives - 2019](https://github.com/ryanRfox/bitshares-core/blob/fox-worker-proposals/worker-proposals/initiatives-2019.png "BitShares Core Initiatives - 2019")
+![BitShares Core 开发倡议 - 2019](https://github.com/ryanRfox/bitshares-core/blob/fox-worker-proposals/worker-proposals/initiatives-2019.png "BitShares Core 开发倡议 - 2019")
 
 ## 开发工作发言人
 
