@@ -1,43 +1,46 @@
-# BitShares  Core 团队预算工作提案 - 2019
+# BitShares Core 团队预算工作提案 - 2019
 
 * 作者: Ryan R. Fox (`"fox"`)
 * 中文翻译: Tong Shen (`"tshen"`)
 
-## 目的
+## 目标
 
-* 为 BitShares  Core 团队提供 **足够维持协议开发工作** 的资金
+* 为 BitShares Core 团队提供 **足够维持协议开发工作** 的资金
 * 运营一支有利于 BitShares 去中心化自治社区（DAC）的跨领域 **协作团队**
 * 让社区、监管者和公众参与进来，成为协议开发方向的 **决定性来源**，并透明地获得相关信息
 
 ## 背景
 
-
-本预算提案基于[2018年BitShares Core 团队](https://www.bitshares.foundation/workers/2018-03-bitshares-core)所做的工作。目的是为了继续支持核心协议的开发，并且能够帮助去中心化自治社区的经营以期在2019年能够作出更多成就。 Core 团队有责任为去中心化自治社区透明交付安全的协议，并且在研究上协作，将创新放在第一位并且致力于帮助社区和公众了解和使用协议。
+本预算提案是由
+[2018 年 BitShares Core 团队](https://www.bitshares.foundation/workers/2018-03-bitshares-core)
+建立和执行的工作的延续。目的是为了继续支持核心协议的开发，并且在去中心化自治社区内继续拓展，以期在 2019
+年能够作出更多成就。Core 团队有责任为去中心化自治社区透明地交付安全的协议、在研究上协作、
+将创新放在第一位并且致力于帮助社区和公众了解和使用协议。
 
 ## 工作
 
-这份预算提案在2019年为以下工作提供资金：
-* BitShares核心开发
+这份 _预算工作提案_ 在 2019 年为以下工作提供资金：
+
+* BitShares Core 开发
 * 协作工具
-* 会议费用与社区经营
+* 参加会议与社区参与
 
+这份工作提案是预算的上限，这些资金会用于改善 BitShares 项目所需要的构思、协作、开发等工作，以及保护相关创意、
+参与和实现的工作上。受到该预算资金支持的个人将以 _表格 2_ 中的工资率承担一系列的特定职能 Core 团队角色。
 
-这些资金只会用于改善BitShares项目所需要的构思，协作，开发等工作以及保护相关创意，参与和实现的工作上。受到该预算资金支持的个人将以表2中工资率实行一系列的特定职能 Core 团队角色。
+BTS 将会被收集到 `"workers.bitshares.foundation"` 的多签名账户中，该账户由
+`"BitShares Blockchain Foundation"` 控制，由 `"BitShares Blockchain Foundation"`
+所有，并使用预算工作模型 [1]，该模型拥有以下的特征：
 
-
-BTS 将会被收集到`"workers.bitshares.foundation"`的多签名账户中，该账户由`"BitShares Blockchain Foundation"`控制，由`"BitShares Blockchain Foundation"`拥有并使用预算工作模型  [1]，该模型拥有以下的特征：
-* 由 BitShares区块链基金 [2] 提供透明的会计工作 
-* 五个工作日内完成的单据检查，批准, 汇款
-* 使用一种可靠的智能货币进行赔偿汇款（比如 bitCNY）
+* 由 BitShares Blockchain Foundation [2] 提供透明的会计工作 
+* 5 个工作日内完成单据检查、批准、汇款
+* 使用一种可靠的 SmartCoin 进行工资汇款（比如bitCNY）
 * 在工作人员结算后将所有累积未分配的 BTS 代币归还到储备池
 
-因为团队的规模增大或者 BTS 代币的价值波动，将会分配更多的工作人员来完成该任务。
+随着团队规模的增大或者 BTS 代币的价值波动，可能会提出后续的工作提案以完整资助项目目标。
 
 
-
-
-
-##  Core 团队工作领域
+## Core 团队工作领域
 
 
  Core 团队仍然专注于[核心协议](https://github.com/bitshares.com/bitshares-core)的维护和开发以及对[BitShares改进提案（BSIP)](https://github.com/bitshares.com/bsips)流程的监督。 Core 团队将继续与[BitShares UI团队](https://github.com/bitshares.com/bitshares-ui)保持联系，并在 GitHub 上的[BitShares组织](https://github.com/bitshares)内维护其他社区领导工作。 Core 团队继续通过下面详述的社区声明计划指导社区贡献者晋升为开放 Core 团队角色。
@@ -75,7 +78,7 @@ effort hours estimations are represented in _Table 1_ below.
 
 | 角色 (描述如下)               | 工资 (USD)| 团队成员                | 预计工作时间   |
 |:----------------------------- | ---------:|:----------------------- |:-------------- |
-| ** Core 团队工作量预算**       |           |                         |                |
+| **Core 团队工作量预算**       |           |                         |                |
 | **每周 $26,750**              |           |                         |                |
 | -                             |           |                         |                |
 | 核心开发者                    | $150/小时 | Abit More               | 每周 10 小时   |
@@ -102,7 +105,7 @@ effort hours estimations are represented in _Table 1_ below.
 
 *当前这些职位仍有空缺。请联系[fox@bitshares.org](mailto:fox@bitshares.org)获取更多信息。
 
-## BitShares  Core 团队
+## BitShares Core 团队
 
 BitShares Core 团队是一个自我组织安排的敏捷开发团队，专注于定期交付BitShares核心软件的版本发布和Bug修复。实际数量的参与者和职责**可能在每个开发周期（详细描述如下）中变化**，导致每个贡献者周补偿金的变化。 Core 团队可根据每个开发周期的需求，自行决定分配资源。
 
@@ -144,7 +147,7 @@ BitShares Core 团队保持优先排序后的[项目目录](https://github.com/b
  Core 团队鼓励来自任何社区的成员参与开发任务目录里的任务，并将对其代码被 Core 团队成员认可并加入到项目中的参与者发出补偿金。协调员将为刚开始上手的社区贡献者提供帮助，协助他们认领项目并开发一个符合 Core 团队设计的架构的解决方案。 我们需要确保这个过程中不会有重复的工作，并且开发的代码可以在下一个 sprint 很好的融合。若被认领的项目与当前 sprint 无关，它也可能在未来被 Core 团队用于推进之后的项目。只完成部分的解决方案将由Q/A领导和协调员的评估决定其补偿金。该部分认领任务的资金来自 Core 团队未分配的预算，即表1中详述的 Core 团队中的开放角色部分。
 
 
-## BitShares  Core 团队框架
+## BitShares Core 团队框架
 
 负责
 * 与每位BitShares Core 团队成员保持及时的协作沟通
@@ -159,8 +162,6 @@ BitShares Core 团队保持优先排序后的[项目目录](https://github.com/b
 交付
 * 将提供最高价值的工作放在第一位
 * 注重完成计划中的发布，而非完成完整的功能（请参阅开发周期）
-
-
 
 ## BitShares Core 团队成员“合同工作”指南
 
