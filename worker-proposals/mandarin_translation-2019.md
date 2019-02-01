@@ -1,7 +1,7 @@
 # BitShares Core 团队预算工作提案 - 2019
 
-* Author: Ryan R. Fox (`"fox"`)
-* [国语翻译](mandarin_translation.md) Mandarin Translation: Tong Shen (`"tshen"`)
+* 作者: Ryan R. Fox (`"fox"`)
+* 中文翻译: Tong Shen (`"tshen"`)
 
 ## 目的
 
