@@ -1,7 +1,7 @@
 # BitShares  Core 团队预算工作提案 - 2019
 
-* Author: Ryan R. Fox (`"fox"`)
-* [国语翻译](mandarin_translation.md) Mandarin Translation: Tong Shen (`"tshen"`)
+* 作者: Ryan R. Fox (`"fox"`)
+* 中文翻译: Tong Shen (`"tshen"`)
 
 ## 目的
 
@@ -313,70 +313,55 @@ version of development progress reports regularly.
 
 ## Core 团队成员介绍
 
-### Abit More - Core Developer
+### Abit More - 核心开发者
 
-I have contributed to the BitShares code base for many years [4].
+我为 BitShares 代码库做贡献很多年 [4]
 
-### Alfredo Garcia - Core Developer
+### Alfredo Garcia - 核心开发者
 
-Started Bitshares contributions into the core more than 2 years ago, initially funded by my own worker proposal[5]. Activity was always maintenance, development, testing, discussion and review around the bitshares-core source code[6]. I also provide support to the community and build utility tools to increase the adoption of Bitshares technology[7]. In the second half of 2018 i joined the core team and had been working there since then. 
+从两年多以前开始为 BitShares Core 做贡献，最初是由我自己的工作提案 [5] 资助的。主要活动一直是围绕 BitShares Core 源代码做维护、开发、测试、讨论和审阅 [6]。我也为社区提供支持，建设了提高 BitShares 技术渗透率的实用工具 [7]。在 2018 年后半年，我加入了 Core 团队，并在这里工作至今。 
 
-### Peter Conrad - Core Developer
+### Peter Conrad - 核心开发者
 
-I am a knowledgeable and long-standing member of the BitShares community (@pc) and an active
-developer for many years [8-9].
+我是 BitShares 社区知识丰富的长期成员（@pc），也是很多年的活跃开发者 [8-9]。
 
-### John Jones - Core Developer
+### John Jones - 核心开发者
 
-I have been a professional software developer since 1991, and a "hacker" before then. Most of my work
-experience has been in finance/investments/insurance. I have been contributing to the BitShares 
-codebase since the beginning of 2018. [10-12].
+我从 1991 年开始成为一名专业的软件开发者，在那之前是一名“黑客”。我的大部分工作经验在金融、投资和保险行业。
+我从 2018 年初开始为 BitShares 代码库做贡献 [10-12]。
 
-### Ryan R. Fox - Coordinator, Business Analyst, QA/Tester
+### Ryan R. Fox - 协调员，业务分析师，质量保证/测试人员
 
-I have actively contributed to BitShares development from its inception [13-16]. I have extensive
-professional background in project management with software development teams and am a professional
-scrum master (PSM-1) with multi-national experience in financial services, mortgage banking and
-manufacturing.
+我从 BitShares 出现开始，就积极为开发做贡献 [13-16]。我有为软件开发团队做项目管理的丰富经验，是专业
+Scrum 大师（PSM-1），有金融服务、银行抵押贷款和制造业的跨国工作经验。
 
-### Dr. Christopher J. Sanborn, PhD - Junior Developer
+### Dr. Christopher J. Sanborn, 博士 - 初级开发者
 
-I have more than a decade of experience in scientific computing and developing software for physical 
-simulations, and more than two decades in software development generally [17].  I have been passionate 
-about crypto since 2013, and have been contributing to the BitShares ecosystem since 2017.  I have a 
-particular interest in improving privacy preservation within blockchain technologies.
+我有超过 10 年的科学计算和开发物理模拟软件的经验，以及超过二十年的各种软件开发经验 [17]。我从 2013
+年开始对加密货币产生热情，从 2017 年开始为 BitShares 生态做贡献。我特别感兴趣的部分是用区块链技术提升隐私保护。
 
-### Michel Santos - Senior Business Analyst
+### Michel Santos - 资深业务分析师
 
-Trained as an aerospace engineer with extensive experience in modeling and simulating the dynamics 
-and control of different types of vehicles.  Background in analyzing business processes and finding 
-ways to improve them.  Has assisted firms with identifying how to use blockchain technologies as one 
-option in their toolchest [18].
+在多种载具的动力和控制的建模与模拟方面有全面经验的航空航天工程师。背景是分析业务过程并找到改善的方法。
+曾协助多家机构确定如何使用区块链技术作为他们可用的工具 [18]。
 
-### 沈瞳 Tong Shen - Coordinator Assistant
+### 沈瞳 Tong Shen - 协调员助理
 
-I have over 10 years of experience in development of web apps, mobile apps, API servers, data 
-processing apps, smart contracts, and have served various roles as SDE, Project Manager, Product 
-Manager, IT Consultant, Agile Coach and CTO [19-21]. As Cofounder & CTO of Spark Blockchain and 
-Liaoyuan, I've built a strong connection with the blockchain and startup ecosystem through our 
-blockchain & startup summits and meetups in United States and China [22].
+我拥有超过 10 年的 Web 应用、移动应用、API 服务、数据处理应用、智能合约开发经验，承担过软件开发工程师、
+项目经理、产品经理、IT 咨询师、敏捷教练和 CTO 等多种角色 [19-21]。作为星火区块链和「燎原」的联合创始人兼
+CTO，我通过我们在美国和中国举办的区块链、创业峰会[22] 和见面会，与整个区块链、创业生态建立了紧密的联系。
 
-### 杉本 T. Sugimoto - Documentation Specialist, QA/Tester
+### 杉本 T. Sugimoto - 文档专员，质量保证/测试人员
 
-I have created and revised documentation for BitShares over the past two years [23]. I hold a Masters
-in MIS and have held professional titles including Systems Analyst & Programmer, Web Designer and
-Database Administrator. I have experience using Content Management Systems to re-organize multiple
-websites. I am proficient analyzing system code in many programming languages and have created many
-web applications and websites.
+我过去两年[23] 为 BitShares 创建和修订文档。我有管理信息系统硕士学位，并有包括系统分析师、程序员、Web
+设计师和数据库管理员在内的多个专业职衔。我具有使用内容管理系统重新组织多个网站的经验。我能熟练分析多种编程语言
+的系统代码，曾创造过多个 Web 应用程序和网站。
 
-### 田蒙蒙 Linda Tian - Coordinator Assistant
+### 田蒙蒙 Linda Tian - 协调员助理
 
-I was fully engaged in the planning and organization of China Graphene Blockchain DevCon in January 
-and Global Graphene Blockchain DevCon in May, 2018 [24]. I have organized a series of activities like 
-translation, meetups, live events about BitShares. Now I work as Secretary General of Graphene 
-Blockchain Application Center(GBAC) [25], and regularly communicate with Graphene projects including 
-BitShares community in China. In short, I have extensive professional background in community 
-operation [26].
+我全面参与了 2018 年 1 月的中国石墨烯区块链开发者大会和 2018 年 5 月的全球石墨烯区块链开发者大会[24]
+的计划和组织。我组织过关于 BitShares 的一系列活动，比如翻译、见面会、现场活动等。我现在的工作是石墨烯区块链应用中心（GBAC）[25]
+的秘书长，定期与包括中国 BitShares 社区在内的石墨烯项目沟通。简而言之，我具有社区运营的全面专业背景[26]。
 
 ## 协作工具
 
