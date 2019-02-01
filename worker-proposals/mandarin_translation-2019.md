@@ -509,23 +509,21 @@ Notification will be posted thru the BBF of the current Development Spokeperson(
 
 ## 工作预算
 
-The budget items listed in the tables below represent an **upper bound** on expenditures. All funds
-collected and unused at the conclusion of this Worker Proposal will be returned to the Reserve
-Pool [5-6].
+下面表格中所列的项目，表示的是相应花销的 **上限**。当这份工作提案结束时，被收集但未被使用的资金将被返还到储备池中。[5-6]
 
-**Table 8. Core Team Budget**
+**表格 8. Core 团队预算**
 
-| Description                                     | Amount (Period)    | As Daily    | TOTAL BUDGET    |
-|:----------------------------------------------- |:------------------ | -----------:| :---------------|
-| Total Core Team Roles (Table 1)                 | $26,750 (weekly)   |             |                 |
-| ++ Convert to daily (/7 days)                   |                    |      $3,821 |                 |
-| Total Collaboration Tools (Table 3)             | $5,000 (monthly)   |             |                 |
-| ++ Convert to daily (/30 days)                  |                    |        $167 |                 |
-| Total Conference Budget (Table 4)               | $74,320 (one-time) |             |                 |
-| ++ Convert to daily (/47 weeks /7 days)         |                    |        $226 |                 |
-| ≈≈ TOTAL DAILY BUDGET ITEMS                     |                    |  **$4,214** |                 |
-| **≈≈ ≈≈ TOTAL 47 WEEK BUDGET USD**              |                    |             | **$1,386,406**  |
-| **≈≈ ≈≈ TOTAL 47 WEEK BUDGET (CNY EQUIVALENT)** |                    |             | **¥9,358,220**  |
+| 描述                                | 金额 (周期)      | 折合每日    | 总预算     |
+|:----------------------------------- |:---------------- | -----------:| :---------------|
+| Core 团队角色小计 (表格 1)          | $26,750 (每周)   |             |                 |
+| ++ 折合每日 ( /7 天)                |                  |      $3,821 |                 |
+| 协作工具小计 (表格 3)               | $5,000 (每月)    |             |                 |
+| ++ 折合每日 ( /30 天)               |                  |        $167 |                 |
+| 会议预算小计 (表格 4)               | $74,320 (一次性) |             |                 |
+| ++ 折合每日 ( /47 周 /7 天)         |                  |        $226 |                 |
+| ≈≈ 预算项目每日总计                 |                  |  **$4,214** |                 |
+| **≈≈ ≈≈ 47 周预算总计（USD）**      |                  |             | **$1,386,406**  |
+| **≈≈ ≈≈ 47 周预算总计（折合 CNY）** |                  |             | **¥9,358,220**  |
 
 ## 期限与支付方式
 
