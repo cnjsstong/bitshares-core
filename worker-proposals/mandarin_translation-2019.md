@@ -147,19 +147,18 @@ BitShares核心团队保持优先排序后的[项目目录](https://github.com/b
 ## BitShares Core 团队框架
 
 负责
-* Maintain timely collaborative communications with each BitShares Core Team Member
-* Maintain effort estimates as development progresses and alert team members of changes promptly
-* Acceptable quality effort is subject to the approval of the Core Team, Escrow Agent and ultimately
-the BTS Token Holders
+* 与每位BitShares核心团队成员保持及时的协作沟通
+* 随着开发的进展保持工作量估算，当变化发生时及时提醒团队成员
+* 工作是否获得认可取决于核心团队，托管代理商以及BTS代币持有人的同意
 
 透明
-* Maintain working increments within Community facing collaboration tools
-* Maintain timely updates of effort estimations within relevant Issues
-* Track quality effort hours within appropriate collaboration tools
+* 在面向社区的协作工具中完成更新工作
+* 及时更新相关项目的工作量估算
+* 在适当的协作工具中跟踪质量工作时间
 
 交付
-* Deliver the highest value work first
-* Favor release schedule over feature completeness (see Development Cycles)
+* 将提供最高价值的工作放在第一位
+* 注重完成计划中的发布，而非完成完整的功能（请参阅开发周期）
 
 ## BitShares Core 团队成员“合同工作”指南
 
