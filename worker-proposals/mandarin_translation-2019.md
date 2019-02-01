@@ -167,23 +167,10 @@ BitShares Core 团队保持优先排序后的[项目目录](https://github.com/b
 
 ## BitShares Core 团队成员“合同工作”指南
 
-This section is to be considered guidance, not a legal statement. The BitShares Decentralized 
-Autonomous Community (BitShares DAC) controls the funds collected by this Budget Worker and are 
-issued as compensation to individuals performing agreed work as described elsewhere in this document.
-Effort contributed by individuals is considered by personal commitment as no formal employment
-contract is intended or able to be formed between BitShares DAC and the individual worker. Neither 
-the BitShares Blockchain Foundation (BBF) nor the BitShares Committee or any individual serving those
-entities are to be considered employers of any agreed contribution. No BitShares Core Team Member or 
-Role is considered the manager or the employer of any individual person. Any compensation received 
-from the BitShares DAC might be considered earned income for individual persons involved in their 
-individual situation and may be subject to tax reporting by the recipient. Neither BitShares DAC, nor
-the BitShares Blockchain Foundation, nor BitShares Committee, nor the Coordinator, or any Core Team
-Member will neither carry responsibility, nor command, nor issue, nor prepare any document, including
-tax documents, to any entity or natural person. All effort performed is a contribution to the 
-BitShares DAC adhering to its MIT license.
+本节应被视为指导而非法律声明。 BitShares去中心化自治社区（BitShares DAC）拥有对本预算 Worker 收集的资金的控制权，该部分资金将用于补偿完成本文件其他部分所述的工作的参与者。由于 BitShares DAC 和独立工作者并没有意愿，也没有实际形成正式的雇佣合同关系，个人完成的成果将被视为私人的付出。
+BitShares Blockchain Foundation（BBF），BitShares Committee或任何为这两个实体服务的个体都都不应被视为贡献的雇主。BitShares Core 成员或角色都不应被视为任何个人的管理者或雇主。收到的任何来自 BitShares DAC 的赔偿金或可以被视为个人由于个体的情况所挣的的收入，并可能符合接收人用于报税的情况。BitShares DAC，BitShares Blockchain Foundation，BitShares Committee，以及协调员或任何Core 团队成员都不会承担，也不会指挥、发布或准备包括对任何实体或自然人的税务文件在内的任何文件。所有的成果都是服从其MIT License情况下对BitShares DAC的贡献。
 
-Each Core Team Member is encouraged to contribute in a responsible way with respect to a work/life 
-balance and legal employee engagements he or she might have entered into, or enter, with an employer. 
+每个Core 团队成员都被鼓励以负责任，保持工作/生活平衡，并需要遵从他或她可能与雇主订下的合法的雇佣合同的情况下做出贡献。  
 
 **表格 2. Core 团队角色和工资**
 
