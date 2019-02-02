@@ -214,92 +214,92 @@ BitShares Blockchain Foundation（BBF）、BitShares 理事会或任何为这两
 
 ## Core 团队成员角色描述
 
-### 核心开发人员
+### 核心开发者
 
-核心开发员是一个经验丰富的C ++ 开发人员，主要负责编写和记录源代码。 其次，核心开发员负责在开发之前完善用户故事、需求和过程模型以及并在测试过程中解决错误。
+核心开发者是经验丰富的 C++ 开发者，主要负责编写代码和撰写相关文档。其次，核心开发者负责在开发之前
+细化用户故事、需求和过程模型以及并在测试过程中解决 Bug。
 
-核心开发者关键绩效指标KPI
- 
-* 与业务分析师协作以改进用户故事、需求和流程模型
-* 与QA /测试员协作以找出错误并解决
-* 与文档专员协作来以检查文档，并确保它与源代码意图和执行相吻合
-* 使用GitFlow原则以维护GitHub中的代码库[7]
-* 协助代码同行审查以及提供发表审批
-* 为利于将来的发展而记录代码
+核心开发者关键绩效指标
+* 与业务分析师协作以细化用户故事、需求和流程模型
+* 与质量保证/测试员协作以找出 Bug 并解决
+* 与文档专员协作来以审阅文档，并确保它与源代码意图和实现相吻合
+* 使用 GitFlow 原则维护 GitHub 中的代码库[3]
+* 互相进行代码审查，并批准发布
+* 为利于将来的发展而为代码撰写文档
 
 ### 业务分析师
-作为高效团队的关键角色，业务分析师将在开发人员开始设计之前，审查并对任务进行优先级排序，并将任务拆分为需求。
- 制作需求文档通常包括叙述了终端用户或者系统行为的用户故事。流程模型是另一个以可视化流程图的模式展现需求的工具。对细节的关注和寻找资料的能力以及记录都是该岗位需要的特质。
-在开发过程中开发人员通常和业务分析师一起协作，理清并修改需求以确保最后的实现能够满足所需。
 
-业务分析员会协助QA/测试员书写测试用例，执行测试并且记录测试结果。
-业务分析员会审查并且修改由文档专家创建的文档以确保其准确反映了需求。
+作为高效团队的关键角色，业务分析师将在开发人员开始设计之前，审查经过优先级排序的改进列表，
+并将它们细化为需求。制作需求文档通常包括叙述了最终用户或者系统的行为的用户故事。流程模型是
+另一种以可视化流程图的形式展现需求的工具。对细节的关注、寻找资料以及写文档的能力都是该岗位需要的特质。
+在开发过程中开发人员通常和业务分析师一起协作，理清并细化需求以确保最后的实现符合期望的行为。
+业务分析员会协助质量保证/测试员编写测试用例，执行测试并且记录测试结果。
+业务分析员会审查并且改进由文档专员创建的文档以确保其准确反映了需求。
 
 业务分析师关键绩效指标
- 
 * 维护用户故事、需求和流程模型
 * 与核心开发员协作以改进用户故事、需求和流程模型
-* 与文档专员协作以修订开发员文档使之与用户故事、需求和流程模型的意图相吻合
+* 与文档专员协作以修订开发者文档使之与用户故事、需求和流程模型的意图相吻合
 
 ### 文档专员
 
 
-文档专员是能够解释测试用例、用户故事、需求、流程模型和C ++源代码的技术写作者。 文档专员将主要负责在GitHub Wiki 和 docs.bitshares.org 网站上为开发社区编写文档。 其次，文档专员将与核心开发员合作以根据用户故事、需求和流程模型的意图来修订开发员文档，从而确保它们符合源代码的意图和功能。
+文档专员是能够理解测试用例、用户故事、需求、流程模型和 C++ 源代码的技术写作者。文档专员主要负责在
+GitHub Wiki 和 docs.bitshares.org 网站上为开发社区编写文档。其次，文档专员将与核心开发者合作，
+以根据用户故事、需求和流程模型的意图来修订开发者文档，从而确保它们符合源代码的意图和功能。
  
 文档专员关键绩效指标
- 
-* 与开发社区协作以确保文档支持其工作
-* 与核心开发员协作以审查文档并确保其与源代码意图和执行相吻合
-* 与QA / 测试员和业务分析师协作以加强文档，包括用户故事、需求、流程模型和测试用例
+* 与开发社区协作以确保文档支持他们的工作
+* 与核心开发者协作以审查文档并确保其与源代码意图和执行相吻合
+* 与质量保证/测试员和业务分析师协作以改进文档，包括用户故事、需求、流程模型和测试用例
 
-### QA /测试员
-QA / 测试员主要负责基于用户故事、需求和流程模型编写测试用例，然后执行测试并记录结果。 其次，QA / 测试员负责与文档专员一起修订开发员文档。
+### 质量保证/测试员
+
+质量保证/测试员 主要负责基于用户故事、需求和流程模型编写测试用例，然后执行测试并记录结果。其次，
+质量保证/测试员 负责与 文档专员 一起修订开发者文档。
  
-QA/测试员关键绩效指标
+质量保证/测试员 关键绩效指标
  
-* 维护Aha!内的测试用例
-* 与核心开发员协作以找出并记录GitHub中的错误
-* 与文档专员协作以修订开发员文档，从而确保其符合预期的工作流程
+* 维护 Aha! 内的测试用例
+* 与核心开发者协作以找出 Bug 并在 GitHub 中记录
+* 与文档专员协作以修订开发者文档，从而确保其符合预期的工作流程
 
 ### 协调员
 
-协调员是一位经验丰富的敏捷项目经理或scrum master，其需要对分布式账本技术有深入的了解。协调员主要负责发展工作的总体推动，组织和任务优先排序。其次，协调员与  BitShares Community, Committee, BBF和其他当选代表一起作为协议开发工作的联络人和公共发言人。协调员与助理协调员密切合作，以在整个社区的获取和传播信息。
+协调员 是一位经验丰富的敏捷项目经理或 Scrum Master，其需要对分布式账本技术有深入的了解。协调员
+主要负责开发工作的总体推动、组织和任务优先排序。其次，协调员与 BitShares 社区、理事会、BBF
+以及其他当选代表对接，作为协议开发工作的联络人和公共发言人。协调员与助理协调员密切合作，
+在整个社区内获取和传播信息。
 
 协调员关键绩效指标
-* 和以下人选保持透明的沟通：
- * BitShares Community, Committee, BBF 和公众
- * BitShares 发言人，BitShares 法律代表和其他当选代表
+* 和以下各方保持透明的沟通：
+ * BitShares 社区、理事会、BBF 以及公众
+ * 当选 BitShares 发言人、BitShares 法律代表和其他当选代表
  * BitShares UI 项目经理和其他在 GitHub 上的 BitShares 项目
-* 维护优先级排序过的项目目录
-* 维护项目进程图
+* 维护优先级排序过的 Backlog，包括问题/功能需求
+* 维护项目路线图
 * 推进发布周期
-* 维护候选人资源库以供候选填补空岗位
- * 意外事故 如果同时存在积压待办事项以及一个空岗位无候选人填补的情况，累积的预算资金可以分配给招聘人员来填补空岗位
+* 维护候选人资源库以供候选填补空缺岗位
+ * 意外事故：如果有大量 Backlog 积压，但没有候选人可以填补空缺岗位，累积的预算资金可以分配给招聘工作来填补空缺岗位
 * 培训和指导 Core 团队成员
 * 促进协作进程
-* 批准核心团队成员和社区认领提交的发票，转发给BBF进行汇款
+* 批准核心团队成员和社区认领提交的发票，转发给 BBF 进行汇款
 * 维护和协作工具供应商的关系
-* 推动开发者大会的出席率，参与度和演讲活动
+* 推动开发者大会的出席、参与和演讲活动
 
+### 协调员助理
 
-### Coordinator Assistant
+本角色是协调员的助理，帮助协调员更好地与中文社区沟通，负责从中文论坛、活动、平台收集想法和评论，并定期汇报给协调员
+以供参考。这个角色也会帮助协调员和 Core 团队向中文社区更好地传达开发路线图和开发进展。需要掌握中英双语，
+熟悉敏捷软件开发过程，并能够和地理分散的软件开发团队无缝协作。
 
-This role acts as an assistant to the Coordinator, helping the Coordinator to better communicate with
-the Chinese community. The assistant will collect ideas and comments from Chinese forums, events and 
-platforms and report these to the Coordinator for reference on a regular basis. The assistant will 
-also help the Coordinator and the Core Team to better present the roadmap and development progress to
-the Chinese community. The Assistant should be bilingual, familiar with agile software development 
-process and able to collaborate with a geo-distributed software development team seamlessly.
-
-Coordinator Assistant Key Performance Indicators
-- Assist the Coordinator to communicate with BitShares Community, especially Chinese community.
-- Assist the Coordinator to communicate with Chinese Spokesperson and other Chinese teams.
-- Collect ideas and comments from Chinese community and assist the Coordinator to convert them to 
-issues/feature requests.
-- Assist the Coordinator to maintain an up-to-date Chinese version of roadmap and present Chinese 
-version of development progress reports regularly.
-- Assist the Coordinator to prioritize backlog based on community and market needs
-- Help with Chinese/English translations.
+协调员助理关键绩效指标
+* 辅助协调员与 BitShares 社区沟通，尤其是中文社区
+* 辅助协调员与中文发言人或其他中文团队沟通
+* 从中文社区收集想法和评论，并辅助协调员将其转化成问题/功能需求
+* 辅助协调员维护一个持续更新的中文版路线图，并定期传达中文版的开发进度报告
+* 根据社区和市场需求，辅助协调员确定 Backlog 优先级
+* 帮助进行中文/英文翻译工作
 
 ## Core 团队成员介绍
 
