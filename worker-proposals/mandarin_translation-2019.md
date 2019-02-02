@@ -270,29 +270,27 @@ the intended workflow
 
 ### Coordinator
 
-The Coordinator is an experienced agile project manager or scrum master with deep knowledge of
-distributed ledger technology. Primarily, the Coordinator is tasked with general facilitation,
-organization and prioritization of development efforts. Secondarily, the Coordinator iterfaces with 
-the BitShares Community, Committee, BBF and other elected representatives as the liaison and public
-spokesperson for protocol development efforts. The Coordinator works closely with the Assistance
-Coordinator(s) to acquire and disseminate information throughout the Community.
+协调员是一位经验丰富的敏捷项目经理或scrum master，其需要对分布式账本技术有深入的了解。协调员主要负责发展工作的总体推动，组织和任务优先排序。其次，协调员与  BitShares Community, Committee, BBF和其他当选代表一起作为协议开发工作的联络人和公共发言人。协调员与助理协调员密切合作，以在整个社区的获取和传播信息。
 
-Coordinator Key Performance Indicators
-* Maintain transparent communications with: 
-  * BitShares Community, Committee, BBF and the public
-  * Elected BitShares Spokesperson, BitShares Legal Representative and other elected representatives
-  * BitShares UI Project Manager and other BitShares project leads with the GitHub Organization
-* Maintain prioritized backlog of issues/feature requests
-* Maintain project roadmap
-* Facilitate release cycles
-* Maintain a pool of candidates to select from to fulfill open roles
-  * Contingency: If both a backlog of effort and an empty candidate pool for an open role exist,
-  the accumulated budgeted funds may be allocated to a recruitment effort to fill the open role
-* Onboard and mentor Core Team Members
-* Facilitate collaboration sessions
-* Approve invoices submitted by Core Team Members and Community Claims, forward to BBF for remittance
-* Maintain vendor relationships for collaboration tools
-* Facilitate Developer Conference attendance, participation and speaking engagements
+协调员关键绩效指标
+* 和以下人选保持透明的沟通：
+ * BitShares Community, Committee, BBF 和公众
+ * BitShares 发言人，BitShares 法律代表和其他当选代表
+ * BitShares UI 项目经理和其他在 GitHub 上的 BitShares 项目
+* 维护优先级排序过的项目目录
+* 维护项目进程图
+* 推进发布周期
+* 维护候选人资源库以供候选填补空岗位
+ * 意外事故 如果同时存在积压待办事项以及一个空岗位无候选人填补的情况，累积的预算资金可以分配给招聘人员来填补空岗位
+* 培训和指导 Core 团队成员
+* 促进协作进程
+* 批准核心团队成员和社区认领提交的发票，转发给BBF进行汇款
+* 维护和协作工具供应商的关系
+* 推动开发者大会的出席率，参与度和演讲活动
+
+
+
+
 
 ### Coordinator Assistant
 
