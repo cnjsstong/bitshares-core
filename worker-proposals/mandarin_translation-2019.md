@@ -197,69 +197,54 @@ BitShares Blockchain Foundation（BBF），BitShares Committee或任何为这两
 
 ## Core 团队成员角色描述
 
-### Core Developer
+### 核心开发人员
 
-The Core Developer is a seasoned C++ developer primarily tasked with writing and documenting the
-source code. Secondarily, the Core Developer is tasked with refining user stories, requirements
-and process models prior to development as well as resolving bugs during testing.
+核心开发员是一个经验丰富的C ++ 开发人员，主要负责编写和记录源代码。 其次，核心开发员负责在开发之前完善用户故事、需求和过程模型以及并在测试过程中解决错误。
 
-Core Developer Key Performance Indicators
-* Collaborate with Business Analyst to refine user stories, requirements and process models
-* Collaborate with QA/Tester on bug identification and resolution
-* Collaborate with the Documentation Specialist to review documentation and ensure it matches
-the source code intent and implementation
-* Maintain code repositories within GitHub using GitFlow principles [3]
-* Contribute to Code Review of peers and provide approval for Release
-* Document code for the benefit of future development efforts
+核心开发者关键绩效指标KPI
+ 
+* 与业务分析师协作以改进用户故事、需求和流程模型
+* 与QA /测试员协作以找出错误并解决
+* 与文档专员协作来以检查文档，并确保它与源代码意图和执行相吻合
+* 使用GitFlow原则以维护GitHub中的代码库[7]
+* 协助代码同行审查以及提供发表审批
+* 为利于将来的发展而记录代码
 
-### Business Analyst
+### 业务分析师
+作为高效团队的关键角色，业务分析师将在开发人员开始设计之前，审查并对任务进行优先级排序，并将任务拆分为需求。
+ 制作需求文档通常包括叙述了终端用户或者系统行为的用户故事。流程模型是另一个以可视化流程图的模式展现需求的工具。对细节的关注和寻找资料的能力以及记录都是该岗位需要的特质。
+在开发过程中开发人员通常和业务分析师一起协作，理清并修改需求以确保最后的实现能够满足所需。
 
-The Business Analyst is a key role in a highly functioning team. They review the prioritized list
-of enhancements and refine them into requirements prior to the Developer beginning their design.
-Creating requirements documents often include user stories which narrate how the end user and/or
-system behaves. Process models are another tool for conveying the requirements in a visual flow
-diagram. Attention to detail and the ability to research and document are desired characteristics
-During development the Developer will often collaborate with the Business Analyst to clarify and
-refine requirements to ensure the implementation meets the desired behavior. The Business Analyst
-will assist the QA/Tester with writing test cases as well as executing and documenting results
-thereof. The Business Analyst will review and refine documentation produced by the Documentation
-Specialist to ensure it accurately reflects the requirements.
+业务分析员会协助QA/测试员书写测试用例，执行测试并且记录测试结果。
+业务分析员会审查并且修改由文档专家创建的文档以确保其准确反映了需求。
 
-Business Analyst Key Performance Indicators
-* Maintain user stories, requirements and process models
-* Collaborate with Core Developers to refine user stories, requirements and process models
-* Collaborate with Documentation Specialist to revise developer documentation matches the intent
-of the user stories, requirements and process models.
+业务分析师关键绩效指标
+ 
+* 维护用户故事、需求和流程模型
+* 与核心开发员协作以改进用户故事、需求和流程模型
+* 与文档专员协作以修订开发员文档使之与用户故事、需求和流程模型的意图相吻合
 
-### Documentation Specialist
+### 文档专员
 
-The Documentation Specialist is technical writer able to interpret test cases, user stories,
-requirements, process models and C++ source code. Primarily the Documentation Specialist will
-write documentation for the development community on the GitHub Wiki and docs.bitshares.org
-website. Secondarily, the Documentation Specialist will work with Core Developers to revise
-developer documentation based on the intent of the user stories, requirements and process models
-to ensure they match the intent and function of the source code.
 
-Documentation Specialist Key Performance Indicators
-* Collaborate with the development community to ensure documentation supports their efforts
-* Collaborate with the Core Developers to review documentation and ensure it matches the source
-code intent and implementation
-* Collaborate with the QA/Tester and Business Analyst to enhance documentation including user
-stories, requirements, process models and test cases
+文档专员是能够解释测试用例、用户故事、需求、流程模型和C ++源代码的技术写作者。 文档专员将主要负责在GitHub Wiki 和 docs.bitshares.org 网站上为开发社区编写文档。 其次，文档专员将与核心开发员合作以根据用户故事、需求和流程模型的意图来修订开发员文档，从而确保它们符合源代码的意图和功能。
+ 
+文档专员关键绩效指标
+ 
+* 与开发社区协作以确保文档支持其工作
+* 与核心开发员协作以审查文档并确保其与源代码意图和执行相吻合
+* 与QA / 测试员和业务分析师协作以加强文档，包括用户故事、需求、流程模型和测试用例
 
-### QA/Tester
+### QA /测试员
+QA / 测试员主要负责基于用户故事、需求和流程模型编写测试用例，然后执行测试并记录结果。 其次，QA / 测试员负责与文档专员一起修订开发员文档。
+ 
+QA/测试员关键绩效指标
+ 
+* 维护Aha!内的测试用例
+* 与核心开发员协作以找出并记录GitHub中的错误
+* 与文档专员协作以修订开发员文档，从而确保其符合预期的工作流程
 
-The QA/Tester is primarily tasked with writing test cases based on user stories, requirements and
-process models, then executing the tests and documenting the results. Secondarily, the QA/Tester is
-tasked with revising developer documentation with the Documentation Specialist.
-
-QA/Tester Key Performance Indicators
-* Maintain test cases within Aha!
-* Collaborate with Core Developers to identify and document bugs in GitHub
-* Collaborate with Documentation Specialist to revise developer documentation, ensuring it matches
-the intended workflow
-
-### Coordinator
+### 协调员
 
 协调员是一位经验丰富的敏捷项目经理或scrum master，其需要对分布式账本技术有深入的了解。协调员主要负责发展工作的总体推动，组织和任务优先排序。其次，协调员与  BitShares Community, Committee, BBF和其他当选代表一起作为协议开发工作的联络人和公共发言人。协调员与助理协调员密切合作，以在整个社区的获取和传播信息。
 
@@ -278,9 +263,6 @@ the intended workflow
 * 批准核心团队成员和社区认领提交的发票，转发给BBF进行汇款
 * 维护和协作工具供应商的关系
 * 推动开发者大会的出席率，参与度和演讲活动
-
-
-
 
 
 ### Coordinator Assistant
