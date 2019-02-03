@@ -399,11 +399,11 @@ BitShares Core 团队 使用多种协作工具来组织工作、传达想法和�
 |   餐食 (不超过 $70)                | 5 天         |       $1,120 |
 | **会议预算总计 (一次性)**          |              |  **$74,320** |
 
-## 开发倡议
+## 开发动议
 
-_图表 1_ 中列出了在 2019 年的开发路线图中，团队打算研究、定义和开发的一系列倡议内容。
+_图表 1_ 中列出了在 2019 年的开发路线图中，团队打算研究、定义和开发的一系列动议内容。
 
-**提示**: Core 团队 不能保证完整地交付所有列出的倡议内容。这里列出这些倡议的目的是为了在开始工作时
+**提示**: Core 团队 不能保证完整地交付所有列出的动议内容。这里列出这些动议的目的是为了在开始工作时
 给出一个指导方向，让 Core 团队 能持续评估和调整进行中的新的开发任务的优先级。
 
 * 硬件钱包集成
@@ -436,9 +436,9 @@ _图表 1_ 中列出了在 2019 年的开发路线图中，团队打算研究、
   * 开发者指南、用户指南
 * 细化并确定现有 BSIP 的优先级
 
-**图表 1. 开发倡议 - 2019**
+**图表 1. 开发动议 - 2019**
 
-![BitShares Core 开发倡议 - 2019](https://github.com/ryanRfox/bitshares-core/blob/fox-worker-proposals/worker-proposals/initiatives-2019.png "BitShares Core 开发倡议 - 2019")
+![BitShares Core 开发动议 - 2019](https://github.com/ryanRfox/bitshares-core/blob/fox-worker-proposals/worker-proposals/initiatives-2019.png "BitShares Core 开发动议 - 2019")
 
 ## 开发工作发言人
 
